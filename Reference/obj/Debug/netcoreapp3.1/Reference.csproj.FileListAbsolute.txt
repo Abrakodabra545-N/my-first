@@ -1,0 +1,13 @@
+C:\Users\Nikita\source\repos\Reference\Reference\bin\Debug\netcoreapp3.1\Reference.exe
+C:\Users\Nikita\source\repos\Reference\Reference\bin\Debug\netcoreapp3.1\Reference.deps.json
+C:\Users\Nikita\source\repos\Reference\Reference\bin\Debug\netcoreapp3.1\Reference.runtimeconfig.json
+C:\Users\Nikita\source\repos\Reference\Reference\bin\Debug\netcoreapp3.1\Reference.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\Reference\Reference\bin\Debug\netcoreapp3.1\Reference.dll
+C:\Users\Nikita\source\repos\Reference\Reference\bin\Debug\netcoreapp3.1\Reference.pdb
+C:\Users\Nikita\source\repos\Reference\Reference\obj\Debug\netcoreapp3.1\Reference.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\Reference\Reference\obj\Debug\netcoreapp3.1\Reference.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\Reference\Reference\obj\Debug\netcoreapp3.1\Reference.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\Reference\Reference\obj\Debug\netcoreapp3.1\Reference.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\Reference\Reference\obj\Debug\netcoreapp3.1\Reference.dll
+C:\Users\Nikita\source\repos\Reference\Reference\obj\Debug\netcoreapp3.1\Reference.pdb
+C:\Users\Nikita\source\repos\Reference\Reference\obj\Debug\netcoreapp3.1\Reference.genruntimeconfig.cache
